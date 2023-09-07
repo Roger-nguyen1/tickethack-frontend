@@ -31,10 +31,7 @@ yarn dev
 - HTML
 - CSS
 - JavaScript
-- React
-- Redux
 - Node.JS
-- Next.JS
 - Vercel
 - …
 
