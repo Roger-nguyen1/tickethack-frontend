@@ -37,7 +37,7 @@ yarn dev
 
 ## 🚀 Deploy
 
-⇒ [https://tickethack-frontend-five.vercel.app/](https://tickethack-frontend-five.vercel.app/)
+⇒ [https://tickethack-frontend-ebon.vercel.app/](https://tickethack-frontend-ebon.vercel.app/)
 
 ## 🧑‍💻 Authors
 
