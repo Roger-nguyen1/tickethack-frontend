@@ -1,10 +1,8 @@
 # 📚 Tickethack
 
-Hi,
-I'm Roger, I'm currently deepening my knowledge in web development. I'm specialized in React frontend development.
-I had fun coding all these projects!
-Feel free to ask me questions and don't hesitate to look at my other projects ;)
-Have fun coding!
+Bonjour,
+
+Je me présente, je suis Roger. Actuellement, je suis en train d’approfondir mes compétences en développement web, avec une concentration particulière sur le développement frontend en utilisant React. J’ai trouvé un immense plaisir à programmer tous ces projets. Je vous invite à me poser des questions et à explorer mes autres réalisations.
 
 ## ✍️ Description
 
@@ -12,7 +10,7 @@ The Tickethack project consisted in creating a train ticket booking website with
 
 ## 🎬 Getting Started : Dependencies and Other
 
-!! Most of my projects have a separate backend and frontend, you will find them here on my github.
+La plupart de mes projets ont un frontend et backend séparés, vous les trouverez sur mon github.
 
 ```
 
