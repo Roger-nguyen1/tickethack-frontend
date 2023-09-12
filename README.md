@@ -6,9 +6,9 @@ Je me présente, je suis Roger. Actuellement, je suis en train d’approfondir m
 
 ## ✍️ Description
 
-The Tickethack project consisted in creating a train ticket booking website with a frontend and a backend. I developed a home page to search for trips, a shopping cart page to display and manage selected trips, and a bookings page to view paid trips. I used Express Generator for the backend, made fetch requests for the communication between the frontend and the backend, and respected the clean code principles.
+Tickethack était un projet en équipe, qui avait pour objectif la création d'un site web de réservation de billets de train avec une partie frontend et une partie backend. Nous avons élaboré une page d'accueil permettant de rechercher des trajets, une page de panier d'achats pour afficher et gérer les trajets sélectionnés, ainsi qu'une page de réservations pour consulter les trajets payés. Nous avons utilisé Express Generator pour le développement de la partie serveur, mis en place des requêtes fetch pour la communication entre l'interface utilisateur et le backend, et veillé à respecter les principes de programmation propre (clean code).
 
-## 🎬 Getting Started : Dependencies and Other
+## 🎬 Démarrage : Dépendances et Autres
 
 La plupart de mes projets ont un frontend et backend séparés, vous les trouverez sur mon github.
 
@@ -24,7 +24,7 @@ yarn dev
 
 ```
 
-## ⚛️ Tech and Stuff
+## ⚛️ Stack technique
 
 - HTML
 - CSS
@@ -33,15 +33,15 @@ yarn dev
 - Vercel
 - …
 
-## 🚀 Deploy
+## 🚀 Site web déployé
 
 ⇒ [https://tickethack-frontend-ebon.vercel.app/](https://tickethack-frontend-ebon.vercel.app/)
 
-## 🧑‍💻 Authors
+## 🧑‍💻 Auteur
 
 Roger NGUYEN
 
-## 🌐 Network
+## 🌐 Réseau
 
 My Portfolio : [Roger NGUYEN](https://portfolio-roger.vercel.app/)
 
